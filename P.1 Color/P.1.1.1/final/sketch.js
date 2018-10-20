@@ -26,6 +26,7 @@ function draw() {
     }
 }
 
+//When the key is pressed this will save the canvas as a png with the name being the mouseX and mouseY position
 function keyPressed() {
     if (key=='s' || key=='S') saveCanvas(gd.timestamp() + '_MouseX_' + mouseX + '_MouseY_' + mouseY, 'png');
 }
