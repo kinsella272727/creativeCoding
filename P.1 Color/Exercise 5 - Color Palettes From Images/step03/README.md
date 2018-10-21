@@ -1,6 +1,6 @@
 ## Step 3
 
-//this will draw the colors using the array
+This will draw the colors using the array
 
 ```js
 var i = 0;
