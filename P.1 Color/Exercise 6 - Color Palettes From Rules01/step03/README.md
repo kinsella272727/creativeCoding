@@ -1,4 +1,4 @@
-##Step 3
+## Step 3
 
 //Creating arrays for each of the HSB values
 
