@@ -1,6 +1,6 @@
 ## Final Step
 
-//This background will redraw when a key is pressed
+This background will redraw when a key is pressed
 this is to prevent the circle from redrawing over itself
 and the background will redraw as the circle does
 
@@ -8,13 +8,13 @@ and the background will redraw as the circle does
 background(50,100,100);
 ```
 
-//When the s key is pressed the canvas will save a png
+When the s key is pressed the canvas will save a png
 
 ```js
 if (key =='s' || key == 'S') saveCanvas(gd.timestamp(), '.png');
 ```
 
-//in this switch statement when one of the numbers is pressed it will change
+In this switch statement when one of the numbers is pressed it will change
 the number of vertexs thus changing the angle
 
 ```js
