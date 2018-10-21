@@ -1,6 +1,6 @@
 ## Final Step
 
-//Creates an ase file of the colours currently on screen
+Creates an ase file of the colours currently on screen
 
 ```js
 f (key == 'c' || key == 'C') {
@@ -12,7 +12,7 @@ f (key == 'c' || key == 'C') {
 }
 ```
 
-//The following will change the colours in the grid
+The following will change the colours in the grid
 
 ```js
 if (key == '1') {
