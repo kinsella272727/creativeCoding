@@ -31,7 +31,7 @@ function draw() {
 
 
 function keyPressed() {
-  //When the s key is pressed the canvas will save a pgn
+  //When the s key is pressed the canvas will save a png
     if (key =='s' || key == 'S') saveCanvas(gd.timestamp(), '.png');
 
     //in this switch statement when one of the numbers is pressed it will change
